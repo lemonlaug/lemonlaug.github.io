@@ -1,0 +1,39 @@
+body {
+    padding: 10px 0 10px 0px;
+    font-family: 'Helvetica Neue', Futura, 'Century Gothic', AppleGothic, sans-serif;
+}
+header {
+    font-size:40px;
+}
+
+.title {
+    padding: 10px 0 0 40px;
+}
+
+section header {
+    font-size:60px;
+}
+
+section {
+    padding: 0 40px 40px 40px;
+}
+
+section section {
+    padding: 0px;
+}
+
+section div {
+    font-size: 16px;
+}
+
+.date {
+    font-style: italic;
+}
+
+.secondary {
+    background-color: #EEE;
+}
+
+iframe {
+    padding: 10px;
+}

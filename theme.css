@@ -1,21 +1,51 @@
 body {
-    padding: 10px 0 10px 0px;
+    padding: 10px 0 10px 10px;
+    margin: 0px;
     font-family: 'Helvetica Neue', Futura, 'Century Gothic', AppleGothic, sans-serif;
+    max-width:650px;
 }
 header {
     font-size:40px;
 }
 
-.title {
-    padding: 10px 0 0 40px;
+img#headline {
+    position: relative;
+    top: -85px;
+    z-index:-1;
 }
+
+.title {
+    padding: 10px 0 0 10px;
+    font-size: 32px;
+    font-weight: 400;
+    color: #585D60;
+    z-index: 2;
+}
+
+a {
+    color: #FD3849;
+    text-decoration:none;
+}
+
+nav ul {
+    padding: 0;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+nav ul li {
+    display:inline;
+    padding-right: 30px;
+    margin-right:50px;
+};
 
 section header {
     font-size:60px;
 }
 
 section {
-    padding: 0 40px 40px 40px;
+    padding: 10px 10px 10px 10px;
 }
 
 section section {

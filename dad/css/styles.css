@@ -1,0 +1,15 @@
+#portrait {
+    float: right;
+}
+
+div {
+    padding:10px;
+}
+
+body {
+    font-family: arial, helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 40px;
+}

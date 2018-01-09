@@ -1,12 +1,19 @@
-#portrait {
+.right {
     float: right;
+}
+
+.left {
+    float: left;
+}
+
+img {
+    height: 400px;
 }
 
 #obit {
     padding: 20px;
     margin: 10px;
 }
-
 
 div {
     padding:0px;
